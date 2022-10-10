@@ -1,0 +1,19 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.0",
+    "heartbeatAt": "2021-11-30T07:45:48.083798",
+    "startedAt": "2021-11-30T07:45:46.738241",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/Users/ask/Library/Jupyter/runtime/kernel-d60c1e05-80fd-4cfd-ab09-c9f5c895ee01.json"
+    ],
+    "state": "running",
+    "program": "notebooks/EDA.ipynb",
+    "root": "/Users/ask/repo/chablis",
+    "host": "Anne-Sophies-MacBook-Pro.local",
+    "username": "ask",
+    "executable": "/Users/ask/opt/anaconda3/envs/chablis/bin/python"
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ask/repo/chablis/mlruns/0/fa2cef6bad3a468d9cf6ddb638c77c39/artifacts
+end_time: 1638257603013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: fa2cef6bad3a468d9cf6ddb638c77c39
+run_uuid: fa2cef6bad3a468d9cf6ddb638c77c39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1638257484559
+status: 4
+tags: []
+user_id: ask

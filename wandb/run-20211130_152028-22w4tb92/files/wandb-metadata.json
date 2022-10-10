@@ -1,0 +1,16 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.0",
+    "heartbeatAt": "2021-11-30T07:20:29.809678",
+    "startedAt": "2021-11-30T07:20:28.785868",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "experiments/sample_tracking.py",
+    "codePath": "experiments/sample_tracking.py",
+    "host": "Anne-Sophies-MacBook-Pro.local",
+    "username": "ask",
+    "executable": "/Users/ask/opt/anaconda3/envs/chablis/bin/python"
+}

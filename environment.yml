@@ -1,0 +1,19 @@
+name: chablis
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - jupyterlab
+  - pip:
+    - pip-tools
+    - wandb
+    - torch
+    - matplotlib
+    - pandas-profiling
+    - pyarrow
+    - seaborn
+    - pandas
+    - transformers
+    - transformers-interpret
+
